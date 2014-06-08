@@ -6165,3 +6165,24 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+  .news{
+      	color: #6600CC;
+      	margin-left:75px;
+      	width:800px;
+      	font-size:22pt
+      }
+ .main{
+      }
+      .side{
+      	width:60px;
+      	height:400px;
+      	float: left;
+      	margin-right:8px;
+      	margin-left:5px
+      }
+      .poster{
+       	margin-left:75px;
+       	width:800px;
+       	
+       	
+      }

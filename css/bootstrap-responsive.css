@@ -892,9 +892,30 @@
   .modal.fade {
     top: -100px;
   }
+  
   .modal.fade.in {
     top: 20px;
   }
+   .news{
+      	color: #6600CC;
+      	margin-left:0px;
+      	width:250px;
+      	font-size:10pt
+      }
+  .side{
+      	width:20px;
+      	height:100px;
+      	float: left;
+      	margin-right:2px;
+      	margin-left:0px
+      }
+  .poster{
+       	margin-left:28px;
+       	width:250px;
+       	
+       	
+      }
+   
 }
 
 @media (max-width: 480px) {
@@ -1107,3 +1128,5 @@
     overflow: visible !important;
   }
 }
+
+
