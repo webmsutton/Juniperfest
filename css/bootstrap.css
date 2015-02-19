@@ -6183,9 +6183,8 @@ a.badge:focus {
       	margin-left:auto
       }
       .poster{
-       margin-left: auto;
-       margin-right: auto;
-       
+       align="middle"
+
 
       }
 
