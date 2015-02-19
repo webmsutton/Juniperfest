@@ -6183,7 +6183,8 @@ a.badge:focus {
       	margin-left:auto
       }
       .poster{
-       align="middle"
+       position: relative;
+       width: 100%
 
 
       }
