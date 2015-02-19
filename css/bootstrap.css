@@ -6191,6 +6191,7 @@ a.badge:focus {
  .poster {
     margin-left: auto;
     margin-right: auto;
+     width: 70%;
  }
 
   @font-face {
