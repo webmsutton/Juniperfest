@@ -6184,6 +6184,7 @@ a.badge:focus {
       }
       .poster{
        position: relative;
+       right: 25%;
        width: 50%
 
 
