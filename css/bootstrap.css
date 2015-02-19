@@ -4608,6 +4608,8 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li {
   float: left;
+  font-family: AD;
+  src: url(http://juniperfest.co.uk/fonts/ArchitectsDaughter.ttf);
 }
 
 .navbar .nav > li > a {
