@@ -6183,16 +6183,12 @@ a.badge:focus {
       	margin-left:auto
       }
       .poster{
-       	margin-left:75px;
-       	width:800px;
-       	
-       	
+       margin-left: auto;
+       margin-right: auto;
+       
+
       }
- .poster {
-    margin-left: auto;
-    margin-right: auto;
-     width: 40%;
- }
+
 
   @font-face {
      font-family: AD;
