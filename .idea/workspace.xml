@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f992c56-158f-40c9-8aff-388a5e916d7b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-    </list>
+    <list default="true" id="8f992c56-158f-40c9-8aff-388a5e916d7b" name="Default" comment="" />
     <ignored path="Juniperfest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65181714" vertical-offset="81163" max-vertical-offset="105281">
-              <caret line="4807" column="44" selection-start-line="4807" selection-start-column="44" selection-end-line="4807" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.3130129" vertical-offset="81163" max-vertical-offset="105281">
+              <caret line="4790" column="1" selection-start-line="4790" selection-start-column="1" selection-end-line="4790" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -853,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65181714" vertical-offset="81163" max-vertical-offset="105281">
-          <caret line="4807" column="44" selection-start-line="4807" selection-start-column="44" selection-end-line="4807" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.3130129" vertical-offset="81163" max-vertical-offset="105281">
+          <caret line="4790" column="1" selection-start-line="4790" selection-start-column="1" selection-end-line="4790" selection-end-column="1" />
           <folding />
         </state>
       </provider>
