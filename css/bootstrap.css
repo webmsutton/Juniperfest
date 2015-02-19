@@ -6188,6 +6188,10 @@ a.badge:focus {
        	
        	
       }
+ .poster {
+    margin-left: auto;
+    margin-right: auto;
+ }
 
   @font-face {
      font-family: AD;
