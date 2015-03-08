@@ -1137,37 +1137,42 @@
   background-color: #2E2E2E;
   color: #ffffff;
  }
- .foodposter{
-  position:relative;
-  top:100px;
-  left:10px
- }
 
- .foodtitle{
-  position:relative; 
-  top:10px;
-  left:0px
- }
+ @media (max-width: 600px) {
 
- .kupkoa{
-  position:relative; 
-  top:10px;
-  left:0px
- }
-.pizzawagon{
-  position:relative; 
-  top:10px;
-  left:0px
+   .foodposter{
+    position:relative;
+    top:100px;
+    left:10px
+   }
+
+   .foodtitle{
+    position:relative; 
+    top:10px;
+    left:0px
+   }
+
+   .kupkoa{
+    position:relative; 
+    top:10px;
+    left:0px
+   }
+  .pizzawagon{
+    position:relative; 
+    top:10px;
+    left:0px
+  }
+  .chives{
+    position:relative; 
+    top:10px;
+    left:0px
+  }
+  .BBQ{
+    position:relative; 
+    top:10px;
+    left:0px
+  }
 }
-.chives{
-  position:relative; 
-  top:10px;
-  left:0px
-}
-.BBQ{
-  position:relative; 
-  top:10px;
-  left:0px
-}
+ 
 
 
