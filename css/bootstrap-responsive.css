@@ -1172,6 +1172,14 @@
     top:10px;
     left:0px
   }
+  .bottombar{
+  
+  /*width:100%;*/
+  position:relative;
+  right:-25%;
+  height:38.2%;
+  
+ }
 }
  
 
