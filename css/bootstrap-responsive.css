@@ -1180,6 +1180,12 @@
   height:38.2%;
   
  }
+ .news{
+  position:relative;
+  top:0px;
+  right:0px;
+  color:white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
  
 
