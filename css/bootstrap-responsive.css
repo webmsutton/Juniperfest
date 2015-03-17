@@ -1182,8 +1182,8 @@
  }
  .news{
   position:relative;
-  top:0px;
-  right:0px;
+  top:100px;
+  right:-25%;
   color:white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
