@@ -974,6 +974,17 @@
   body {
     padding-top: 0;
   }
+  .news{
+    display:none;
+  }
+  .bottombar{
+  
+  /*width:100%;*/
+  position:relative;
+  right:-25%;
+  height:38.2%;
+  
+ }
   .navbar-fixed-top,
   .navbar-fixed-bottom {
     position: static;
@@ -1175,14 +1186,7 @@
     top:10px;
     left:0px
   }
-  .bottombar{
   
-  /*width:100%;*/
-  position:relative;
-  right:-25%;
-  height:38.2%;
-  
- }
  .news{
   position:relative;
   top:100px;
