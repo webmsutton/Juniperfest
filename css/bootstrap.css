@@ -227,7 +227,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #FFFFFF;
-  background-color: #ffffd6;
+  background-color: #2E2E2E;
 }
 
 a {
@@ -6175,6 +6175,7 @@ a.badge:focus {
       	font-size:22pt
       }
  .main{
+  background-color: #2E2E2E;
       }
       .side{
         position: relative;
@@ -6240,11 +6241,11 @@ a.badge:focus {
 #background {
     background-color: #2E2E2E;
     width: 100%; 
-    height: 100%; 
-    position: fixed; 
+    height: 115%; 
+    position: absolute; 
     left: 0px; 
     top: 0px; 
-    z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+    z-index: -2; /*Ensure div tag stays behind content; -999 might work, too. */
 }
 .bottombar{
   
@@ -6255,9 +6256,12 @@ a.badge:focus {
   
  }
 
+
 .stretch {
+    position:relative;
     width:100%;
-    height:61.8%;
+    height:71.07%;
+    z-index: -1;
 }
 .news{
   position:relative;
@@ -6265,7 +6269,17 @@ a.badge:focus {
   right:0px;
   color:white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
 }
+.messagetext{
+  
+  position:relative;
+  z-index:0;
+  left:75px;
+  width:70%;
+  
+}
+
 
 
 
