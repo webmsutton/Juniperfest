@@ -6201,18 +6201,6 @@ a.badge:focus {
      font-family: AD;
      src: url(../fonts/ArchitectsDaughter.ttf);
  }
- @font-face {
-    font-family: 'nexa_rust_slabblack_shadow_01';
-    src: url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.eot');
-    src: url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.woff2') format('woff2'),
-         url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.woff') format('woff'),
-         url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.ttf') format('truetype'),
-         url('../fonts/NexaRustSlab-BlackShadow01-Free-webfont.svg#nexa_rust_slabblack_shadow_01') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
 
  .food{
   background-color: #2E2E2E;
@@ -6261,7 +6249,6 @@ a.badge:focus {
 }
 .bottombar{
   
-  
   /*width:100%;*/
   position:relative;
   right:-75%;
@@ -6274,12 +6261,6 @@ a.badge:focus {
     position:relative;
     width:100%;
     height:71.07%;
-    z-index: -1;
-}
-.stretchmusic {
-    position:relative;
-    width:100%;
-    height:225%;
     z-index: -1;
 }
 .news{
@@ -6297,22 +6278,6 @@ a.badge:focus {
   left:75px;
   width:70%;
   
-}
-.lineup{
-  text-align: center;
-  font-family: nexa_rust_slabblack_shadow_01,"Helvetica Neue", Helvetica, Arial, sans-serif;
-  
-}
-.lineup h2{
-  /*color:blue;*/
-}
-.lineup a{
-  font-size: 50pt;
-}
-.band img{
-  height: 32px;
-  vertical-align: bottom;
-
 }
 
 
