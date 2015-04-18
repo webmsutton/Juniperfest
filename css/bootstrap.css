@@ -6261,6 +6261,7 @@ a.badge:focus {
 }
 .bottombar{
   
+  
   /*width:100%;*/
   position:relative;
   right:-75%;
@@ -6311,7 +6312,7 @@ a.badge:focus {
 .band img{
   height: 32px;
   vertical-align: bottom;
-  
+
 }
 
 
