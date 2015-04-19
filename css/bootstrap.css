@@ -6226,29 +6226,35 @@ a.badge:focus {
 
  .foodtitle{
   position:relative; 
-  top:-250px;
-  left:300px
+  top:0px;
+  text-align: center;
+ }
+ .fooddiv{
+  text-align: center;
+ }
+ 
+ .fooddiv h1{
+  font-family: nexa_rust_slabblack_shadow_01,"Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+ .fooddiv h2{
+  font-family: nexa_rust_slabblack_shadow_01,"Helvetica Neue", Helvetica, Arial, sans-serif;
  }
 
  .kupkoa{
   position:relative; 
-  top:-200px;
-  left:300px
+  
  }
 .pizzawagon{
   position:relative; 
-  top:-100px;
-  left:300px
+
 }
 .chives{
   position:relative; 
-  top:-50px;
-  left:300px
+  
 }
 .BBQ{
   position:relative; 
-  top:-150px;
-  left:300px
+  
 }
 #background {
     background-color: #2E2E2E;
@@ -6294,7 +6300,7 @@ a.badge:focus {
   position:relative;
   z-index:0;
   left:75px;
-  width:70%;
+  width:90%;
   
 }
 .lineup{
@@ -6312,6 +6318,17 @@ a.badge:focus {
   height: 32px;
   vertical-align: bottom;
 }
+.prices{
+  position:relative;
+  left:75px;
+}
+.header{
+  position:relative;
+  font-family: nexa_rust_slabblack_shadow_01,"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 60pt;
+  left:75px;
+}
+
 
 
 
